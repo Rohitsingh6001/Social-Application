@@ -1,4 +1,5 @@
 import logo from './logo.svg'
+import logo1 from './MeetUp.png'
 import sample_cover from './sample_cover.jpg'
 import sample_profile from './sample_profile.jpg'
 import bgImage from './bgImage.png'
@@ -12,7 +13,9 @@ export const assets = {
     sample_profile,
     bgImage,
     group_users,
-    sponsored_img
+    sponsored_img,
+    logo1,
+
 }
 
 export const menuItemsData = [
