@@ -3,7 +3,7 @@ import Sidebar from "../components/Sidebar";
 import { Outlet } from "react-router-dom";
 import { X } from "lucide-react";
 import {dummyUserData} from '../assets/assets.js'
-import { Loading } from "../components/Loading.jsx";
+import  Loading  from "../components/Loading.jsx";
 
 const Layout = () => {
   const user = dummyUserData

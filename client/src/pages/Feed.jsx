@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { assets, dummyPostsData } from "../assets/assets";
-import { Loading } from "../components/Loading.jsx";
+import  Loading  from "../components/Loading.jsx";
 import StoriesBar from "../components/StoriesBar.jsx";
 import PostCard from "../components/PostCard.jsx";
 import RecentMessages from "../components/RecentMessages.jsx";
